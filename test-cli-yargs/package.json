@@ -1,0 +1,21 @@
+{
+  "name": "ynzy-test-cli-yargs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "test-cli-yargs": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dedent": "^0.7.0",
+    "npmlog": "^4.1.2",
+    "yargs": "^17.0.1",
+    "ynzy-test-cli-lib": "^1.0.0"
+  }
+}
